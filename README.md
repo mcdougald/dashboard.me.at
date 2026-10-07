@@ -9,7 +9,7 @@
 
 The numbers behind the network: GitHub activity, WakaTime coding hours, Spotify listening, and blog reach.
 
-dashboard.me.at gathers Trevor McDougald's personal metrics on one page. It pulls live data from GitHub, WakaTime, and Spotify, plus view and like counts from the blog, and lays them out as a single scrolling dashboard. It is a personal quantified-self page, not a product, and it is kept out of search indexes.
+dashboard.me.at gathers my personal metrics on one page. It pulls live data from GitHub, WakaTime, and Spotify, plus view and like counts from the blog, and lays them out as a single scrolling dashboard. It is a personal quantified-self page, not a product, and it is kept out of search indexes.
 
 **Live:** [dashboard.me.at](https://dashboard.me.at)
 
@@ -34,7 +34,7 @@ dashboard.me.at gathers Trevor McDougald's personal metrics on one page. It pull
 
 ## Part of the me.at family
 
-dashboard.me.at is one of the [`*.me.at`](https://me.at) apps by Trevor McDougald. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
+dashboard.me.at is one of my [`*.me.at`](https://me.at) apps. They share one design system, account, and app shell. Development happens in a private monorepo; this repository is the project's public-facing home.
 
 ## License
 
