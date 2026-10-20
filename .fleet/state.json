@@ -2,7 +2,7 @@
   "domain": "dashboard.me.at",
   "network": "me.at",
   "generator": "@repo/app-shell/repo-fleet",
-  "contentHash": "f8588f9527953906fc2b62fc0f6d46239ac1938fa8a531f34765c8a6bebfb50a",
+  "contentHash": "d20bcbf130e9dbd3717536110066724a390c4ce9bdc0305021207c11a3c58d6c",
   "lastSyncedAt": "2026-10-20",
   "paths": [
     ".github/CODEOWNERS",
