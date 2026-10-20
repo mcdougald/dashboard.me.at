@@ -1,0 +1,7 @@
+{
+  "name": "dashboard-me-at",
+  "description": "My personal metrics in one place: GitHub activity, WakaTime coding hours, and Spotify listening",
+  "homepage": "https://dashboard.me.at",
+  "private": false,
+  "license": "SEE LICENSE IN LICENSE"
+}
